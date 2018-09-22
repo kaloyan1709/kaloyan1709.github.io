@@ -1,0 +1,1 @@
+window.alert("This is the official website of Kal47a G3ng!!!")
