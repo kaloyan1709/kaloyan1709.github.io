@@ -4,9 +4,7 @@ body {
     margin: 0;
     padding: 0;
 }
-h1 {
-	text-align: center;
-}
+
 p {
 	color: red;
 }
@@ -55,20 +53,37 @@ p {
 }
 .textimg {
 	float: right;
-	width: 35%;
-	height: 35%;
+	width: 33%;
+	height: 33%;
 	display: block;
-	padding-right: 287px;
+	padding-right: 20%;
 	padding-top: 20px;
 	margin-right: auto;
-
-
 }
-
-
-
-
-
+.kalata {
+	float: left;
+	display: block;
+	width: 25%;
+	height: 25%;
+	padding-left: 20%;
+}
+h1 {
+	float: right;
+	padding-right: 23%;
+	display: block;
+}
+.links {
+	display: block;
+}
+.links a {
+	text-decoration: none;
+	padding-left: 2.5%;
+	color: #1B1545;
+	font-size: 150%;
+}
+.links a:hover {
+	color: red;
+}
 
 
 
