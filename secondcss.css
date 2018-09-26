@@ -38,10 +38,20 @@ body {
 .topnav a.active {
     color: #13aa7f;
 }
+.para p {
+	text-align: center;
+	font-size: 35px;
+	color: #1B1545;
+}
+.links {
+	text-align: center; 
 
-
-
-
+}
+.links a {
+	font-size: 30px;
+	text-decoration: none;
+	color: #13aa7f;
+}
 
 
 
