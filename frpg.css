@@ -1,0 +1,141 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 300%;
+}
+.sidenav {
+  height: 100%;
+  width: 10%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.sidenav img {
+  width: 90%;
+  padding-left: 5%;
+}
+.sidenav a, .dropdown-btn {
+  padding: 20px 8px 17px 25px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width:100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+.sidenav a:hover, .dropdown-btn:hover {
+  color: #f1f1f1;
+}
+.main {
+  margin-left: 9%; 
+  font-size: 20px; 
+  padding: 0px 10px;
+}
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  padding-left: 8px;
+}
+.fa-caret-down {
+  float: left;
+  padding-right: 8px;
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+.container img {
+  width: 100%;
+  height: 400px;
+}
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.container .btn:hover {
+  background-color: #555;
+}
+a {
+  text-decoration: none;
+}
+.cr  {
+  float: left;
+  padding-left: 13%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  position: relative;
+  display: inline;
+}
+.dr {
+  float: right;
+  position: relative;
+  display: inline;
+  padding-right: 14%;
+  position: relative;
+}
+.cr1 {
+  float: left;
+  padding-left: 13%;
+  padding-top: 0;
+  padding-right: 3%;
+  margin-top: 0;
+  margin-right: 0;
+  width: 30%;
+  display: inline;
+}
+.dr1 {
+  float: right;
+  display: inline;
+  padding-right: 30%;
+}
+.rg {
+  float: right;
+  display: inline;;
+  padding-right: 5%;
+  padding-bottom: 0;
+  margin-bottom: 0; 
+}
+.custom-select {
+  float: right;
+  font-size: 36px;
+}
+.selectable {
+  padding-right: 0%;
+  padding-top: 0%;
+  margin-bottom: 0;
+  margin-top: 0;
+  display: inline;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+

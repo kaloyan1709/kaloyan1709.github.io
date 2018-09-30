@@ -1,0 +1,116 @@
+body {
+  background-color: black;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+
+ }
+.navbar a {
+  float: right;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 25px 16px;
+  text-decoration: none;
+}
+.navbar h2 {
+    float: left;
+    color: white;
+    padding: 0px 15px;
+    font-style: italic;
+}
+.dropdown {
+  float: right;
+  overflow: hidden;
+}
+.dropdown .dropbtn {
+  font-size: 16px; 
+  border: none;
+  outline: none;
+  color: white;
+  padding: 25px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0; 
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+.navbar a.active {
+  color: green;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.gold {
+  float: right;
+  padding-right: 3%;
+  padding-top: 3%;
+  overflow: auto;
+}
+.h1gold {
+  color: white;
+  float: left;
+  padding-top: 10%; 
+  padding-left: 7%;
+  overflow: auto;
+  font-size: 500%;
+}
+hr {
+  width: 75%;
+}
+.para p {
+  color: white;
+  text-align: left;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
