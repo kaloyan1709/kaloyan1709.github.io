@@ -107,7 +107,7 @@ a {
 .dr1 {
   float: right;
   display: inline;
-  padding-right: 30%;
+  padding-right: 17%;
 }
 .rg {
   float: right;
@@ -118,7 +118,7 @@ a {
 }
 .custom-select {
   float: right;
-  font-size: 36px;
+  font-size: 190%;
 }
 .selectable {
   padding-right: 0%;
@@ -128,11 +128,27 @@ a {
   display: inline;
   position: relative;
 }
+.qq {
+  float: right;
+  display: inline;
+  padding-right: 40%;
+  padding-bottom: 0;
+  margin-bottom: 0; 
+  
+}
+.queq {
+  float: right;
+  position: absolute;
+  padding-left: 8.5%;
+  font-size: 190%;
+}
+.qq1 {
+  float: right;
+  padding-left: 3%;
 
-
-
-
-
+  
+  
+}
 
 
 
